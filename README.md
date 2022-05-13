@@ -1,7 +1,7 @@
 <h1>SPACE SHIP</h1>
 <table border="1">    
   <tr>
-    <th colspan="2">Cabeçalho da Tabela</th>
+    <th colspan="2">Projeto Space Ship Dio</th>
   </tr>        
   <tr>
     <td>Linha 1 - Coluna 1</td>
