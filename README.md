@@ -5,11 +5,7 @@
   </tr>        
   <tr>
     <td>Aprendizado</td>
-    <td>Linha 1 - Ccoluna 2</td>
-  </tr>
-  <tr>
-    <td>Linha 2 - Coluna 1</td>
-    <td>Linha 2 - Coluna 2</td>
+    <td>Desenvolvimento jogo 2D na web</td>
   </tr>
   <tr>
     <td colspan="2"><b>Rafael de Assis Fontes</b></td>
